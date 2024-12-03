@@ -1,0 +1,13 @@
+\babel@toc {american}{}\relax 
+\vspace {-\cftbeforepartskip }
+\contentsline {part}{\numberline {i}{Introduction and Literature review}}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}{Introduction}}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}{Literature review}}{5}{chapter.2}%
+\contentsline {part}{\numberline {ii}{Theory, Procedure and results}}{7}{part.2}%
+\contentsline {chapter}{\numberline {3}{Theory}}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}{Experimental procedure}}{11}{chapter.4}%
+\contentsline {chapter}{\numberline {5}{Results and discussions}}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}{Conclusion}}{15}{chapter.6}%
+\contentsline {part}{\numberline {iii}{Appendix}}{17}{part.3}%
+\contentsline {chapter}{\numberline {A}{Appendix 1}}{19}{appendix.A}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
