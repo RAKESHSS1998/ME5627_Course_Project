@@ -8,8 +8,34 @@
 \ttl@tocsep 
 \ttl@tocsep 
 \ttl@tocsep 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Wind tunnel test rig.}}{8}{figure.caption.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Dimensions of converging section.}}{9}{figure.caption.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Dimensions of the test section.}}{10}{figure.caption.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Dimensions of diverging section.}}{11}{figure.caption.4}%
 \ttl@tocsep 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Calibration of tungsten filament of the bulb}}{19}{figure.caption.6}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Voltage variation with time for a flow having pressure of 4~Pa recorded in a PC oscilloscope.}}{20}{figure.caption.7}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Comparison of measured voltage and Calculated voltage of the filament of a bulb.}}{22}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Response of the tungsten filament of the bulb to the step input.}}{23}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Calibration of hot wire anemometer.}}{24}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Comparison of measured and calculated voltage of the hot wire anemometer}}{26}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Response of a hot wire anemometer for a step input.}}{26}{figure.caption.16}%
 \ttl@tocsep 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The variation of voltage with time for a flow having differential pressure of $1~Pa$ for sensor placed at a distance of $D$ from the cylinder}}{29}{figure.caption.17}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces The variation of velocity with time for a flow having differential pressure of $1~Pa$ for sensor placed at a distance of $D$ from the cylinder}}{30}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Frequency spectrum of velocity.}}{31}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Frequency spectral density of velocity for flow Reynolds number (a)~2699, (b)~3818, (c)~4676 and (d)~5399 at a distance of $D$ from the center of the cylinder.}}{32}{figure.caption.20}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Variation of Strouhal number ($St$) with Reynolds number ($Re$) for flow past a cylinder at a distance of \enquote {$D$} from the center.}}{33}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Frequency spectral density of velocity for flow Reynolds number (a)~2699, (b)~3818, (c)~4676 and (d)~5399 at a distance of \enquote {$D$} and a height of \enquote {$0.5~D$} from the center of the cylinder.}}{34}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Variation of Strouhal number ($St$) with Reynolds number ($Re$) for flow past a cylinder at a distance of \enquote {$D$} and at a height of \enquote {$0.5~D$} from the center of the cylinder.}}{35}{figure.caption.23}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Frequency spectral density of velocity for flow Reynolds number (a)~2699, (b)~3818, (c)~4676 and (d)~5399 at a distance of \enquote {$2~D$} from the center of the cylinder.}}{36}{figure.caption.24}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Variation of Strouhal number ($St$) with Reynolds number ($Re$) for flow past a cylinder at a distance of \enquote {$2~D$} from the center of the cylinder.}}{37}{figure.caption.25}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Frequency spectral density of velocity for flow Reynolds number (a)~2699, (b)~3818, (c)~4676 and (d)~5399 at a distance of \enquote {2~D} and a height of \enquote {0.5~D} from the center of the cylinder.}}{38}{figure.caption.26}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Variation of Strouhal number ($St$) with Reynolds number ($Re$) for flow past a cylinder at a distance of \enquote {$2~D$} and at a height of \enquote {0.5~D} from the center of the cylinder.}}{39}{figure.caption.27}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Frequency spectral density of velocity for flow Reynolds number (a)~2699, (b)~3818, (c)~4676 and (d)~5399 at a distance of \enquote {4~D} from the center of the cylinder.}}{40}{figure.caption.28}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Variation of Strouhal number ($St$) with Reynolds number ($Re$) for flow past a cylinder at a distance of \enquote {$4~D$} from the center of the cylinder.}}{41}{figure.caption.29}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Frequency spectral density of velocity for flow Reynolds number (a)~2699, (b)~3818, (c)~4676 and (d)~5399 at a distance of \enquote {4~D} and a height of \enquote {0.5~D} from the center of the cylinder.}}{42}{figure.caption.30}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Variation of Strouhal number ($St$) with Reynolds number ($Re$) for flow past a cylinder at a distance of \enquote {$4~D$} and a height of \enquote {$0.5~D$} from the center of the cylinder.}}{43}{figure.caption.31}%
 \ttl@tocsep 
 \ttl@tocsep 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

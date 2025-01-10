@@ -1,0 +1,55 @@
+\nomenclatureentry{a$U$@[{$U$}]\begingroup Velocity of air flow.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\Delta P$@[{$\Delta P$}]\begingroup Differential pressure.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\rho$@[{$\rho$}]\begingroup Density of air.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$E$@[{$E$}]\begingroup Voltage across the sensor.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$E_0$@[{$E_0$}]\begingroup Voltage across the sensor in no flow condition.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$B,~n$@[{$B,~n$}]\begingroup Numerical constants used in King's law.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$q$@[{$q$}]\begingroup Number of sample spaces.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\sigma$@[{$\sigma$}]\begingroup Standard deviation.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\tau$@[{$\tau$}]\begingroup Time constant.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$D$@[{$D$}]\begingroup Diameter of the solid cylinder.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$v$@[{$v$}]\begingroup Velocity of the flow in temporal domain.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\Hat{V}$@[{$\Hat{V}$}]\begingroup Velocity of the flow in frequency domain.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\omega$@[{$\omega$}]\begingroup Frequency in rad/s.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$Re$@[{$Re$}]\begingroup Reynolds number.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$St$@[{$St$}]\begingroup Strouhal number.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$f$@[{$f$}]\begingroup Frequency in Hz.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\mu$@[{$\mu$}]\begingroup Dynamic viscosity of air.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\rho$@[{$\rho$}]\begingroup Density of air.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$L_{\text{settling}}$@[{$L_{\text{settling}}$}]\begingroup Length of the settling chamber.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$W_{\text{settling}}$@[{$W_{\text{settling}}$}]\begingroup Width of the settling chamber.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$W_{\text{contraction}}$@[{$W_{\text{contraction}}$}]\begingroup Width of the contraction section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$H_{\text{contraction}}$@[{$H_{\text{contraction}}$}]\begingroup Height of the contraction section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$L_{\text{contraction}}$@[{$L_{\text{contraction}}$}]\begingroup Length of the contraction section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$W_{\text{test}}$@[{$W_{\text{test}}$}]\begingroup Width of the test section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$L_{\text{test}}$@[{$L_{\text{test}}$}]\begingroup Length of the test section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$H_{\text{test}}$@[{$H_{\text{test}}$}]\begingroup Height of the test section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$W_{\text{diffuser}}$@[{$W_{\text{diffuser}}$}]\begingroup Width of the diffuser section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$L_{\text{diffuser}}$@[{$L_{\text{diffuser}}$}]\begingroup Length of the diffuser section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$H_{\text{diffuser}}$@[{$H_{\text{diffuser}}$}]\begingroup Height of the diffuser section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$R$@[{$R$}]\begingroup Resistance of the wire.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\rho_w$@[{$\rho_w$}]\begingroup Resistivity of the wire.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$L_w$@[{$L_w$}]\begingroup Length of the wire.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$A_w$@[{$A_w$}]\begingroup Area of cross section of the wire.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$I$@[{$I$}]\begingroup Current through the wire.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$h$@[{$h$}]\begingroup heat transfer coefficient of the wire.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$T_{\text{wire}}$@[{$T_{\text{wire}}$}]\begingroup Maximum operating temperature of the wire.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$T$@[{$T$}]\begingroup Ambient temperature.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$A_{\text{diffuser}}$@[{$A_{\text{diffuser}}$}]\begingroup Area of cross section of the diffuser section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$A_{\text{contraction}}$@[{$A_{\text{contraction}}$}]\begingroup Area of cross section of the contraction section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$A_{\text{test}}$@[{$A_{\text{test}}$}]\begingroup Area of cross section of the test section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$A_{\text{straws}}$@[{$A_{\text{straws}}$}]\begingroup Contact area of straw with the air.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$Q$@[{$Q$}]\begingroup Air flow rate in the wind tunnel.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\Delta P_{\text{settling}}$@[{$\Delta P_{\text{settling}}$}]\begingroup Pressure drop in the settling chamber.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\Delta P_{\text{contraction}}$@[{$\Delta P_{\text{contraction}}$}]\begingroup Pressure drop in the contraction section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\Delta P_{\text{test}}$@[{$\Delta P_{\text{test}}$}]\begingroup Pressure drop in the test section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\Delta P_{\text{diffuser}}$@[{$\Delta P_{\text{diffuser}}$}]\begingroup Pressure drop in the diffuser section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$V_m$@[{$V_m$}]\begingroup Maximum velocity of the air.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$k_{\text{settling}}$@[{$k_{\text{settling}}$}]\begingroup Loss factor in the settling chamber.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$k_{\text{contraction}}$@[{$k_{\text{contraction}}$}]\begingroup Loss factor in the contraction section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$k_{\text{diffuser}}$@[{$k_{\text{diffuser}}$}]\begingroup Loss factor in the diffuser section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$f_f$@[{$f_f$}]\begingroup friction factor in the test section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$D_h$@[{$D_h$}]\begingroup Hydraulic diameter of the test section.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\Delta P_{\text{total}}$@[{$\Delta P_{\text{total}}$}]\begingroup Total pressure drop in the wind tunnel.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$\eta$@[{$\eta$}]\begingroup Efficiency of the fan.\nomeqref {0.0}|nompageref}{x}
+\nomenclatureentry{a$P_{\text{fan}}$@[{$P_{\text{fan}}$}]\begingroup Power of the suction fan.\nomeqref {0.0}|nompageref}{x}

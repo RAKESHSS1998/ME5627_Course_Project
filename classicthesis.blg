@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: classicthesis.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: frontbackmatter/titlepage.aux
+A level-1 auxiliary file: frontbackmatter/titleback.aux
+A level-1 auxiliary file: frontbackmatter/abstract.aux
+A level-1 auxiliary file: frontbackmatter/acknowledgments.aux
+A level-1 auxiliary file: frontbackmatter/contents.aux
+A level-1 auxiliary file: frontbackmatter/symbols.aux
+A level-1 auxiliary file: chapters/chapter01.aux
+A level-1 auxiliary file: chapters/chapter02.aux
+A level-1 auxiliary file: chapters/chapter03.aux
+A level-1 auxiliary file: chapters/chapter04.aux
+A level-1 auxiliary file: chapters/chapter05.aux
+A level-1 auxiliary file: chapters/chapter06.aux
+A level-1 auxiliary file: frontbackmatter/bibliography.aux
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: classicthesis-blx.bib
+Database file #2: bibliography.bib
+Database file #3: mypublications.bib
+Biblatex version: 3.20
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 9 entries,
+            6402 wiz_defined-function locations,
+            1298 strings with 17753 characters,
+and the built_in function-call counts, 66564 in all, are:
+= -- 5110
+> -- 1078
+< -- 255
++ -- 1947
+- -- 472
+* -- 5111
+:= -- 7777
+add.period$ -- 0
+call.type$ -- 9
+change.case$ -- 8
+chr.to.int$ -- 56
+cite$ -- 16
+duplicate$ -- 6908
+empty$ -- 5710
+format.name$ -- 616
+if$ -- 13349
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 0
+newline$ -- 336
+num.names$ -- 328
+pop$ -- 2901
+preamble$ -- 1
+purify$ -- 131
+quote$ -- 0
+skip$ -- 1638
+stack$ -- 0
+substring$ -- 9505
+swap$ -- 1388
+text.length$ -- 284
+text.prefix$ -- 9
+top$ -- 1
+type$ -- 294
+warning$ -- 0
+while$ -- 982
+width$ -- 0
+write$ -- 328

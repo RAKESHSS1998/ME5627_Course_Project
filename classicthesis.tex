@@ -34,7 +34,7 @@
                 ]{scrreprt}   
 
 \input{classicthesis-config}
-
+\usepackage{float}
 %********************************************************************
 % Bibliographies - change according to your need
 %*******************************************************
@@ -50,7 +50,7 @@
 % Frontmatter
 %*******************************************************
 \include{frontbackmatter/titlepage}
-%\include{frontbackmatter/titleback}
+\include{frontbackmatter/titleback}
 \changecleardoublepage % Do not edit. Temporarily changing cleardoublepage
 %\cleardoublepage\include{frontbackmatter/certificate}
 %\cleardoublepage\include{frontbackmatter/declaration}
@@ -59,7 +59,7 @@
 %\cleardoublepage\include{frontbackmatter/publications}
 \cleardoublepage\include{frontbackmatter/acknowledgments}
 \cleardoublepage\include{frontbackmatter/contents}
-%\cleardoublepage\include{frontbackmatter/symbols} %remove this line if you do not need it
+\cleardoublepage\include{frontbackmatter/symbols} %remove this line if you do not need it
 %\cleardoublepage\include{frontbackmatter/abbreviations} %remove this line if you do not need it
 \resetcleardoublepage %Do not edit. Changing cleardoublepage back to original
 
@@ -78,24 +78,26 @@
 % Configuration changes may be done in the file classicthesis-config.tex
 % Contents of the other files may be edited as instructed in the respective files
 %**********************************************************************************
-\part{Introduction and Literature review}\label{pt:intro}
+\renewcommand{\thepart}{\Roman{part}}
+\part{Introduction, Literature review and Design}\label{pt:intro}
 \include{chapters/chapter01}
 \include{chapters/chapter02}
-\part{Theory, Procedure and results}\label{pt:theory}
 \include{chapters/chapter03}
+\part{Procedure and results}\label{pt:theory}
 \include{chapters/chapter04}
 \include{chapters/chapter05}
+\part{Conclusion and future scope}\label{pt:conclusion}
 \include{chapters/chapter06}
 % ********************************************************************
 % Backmatter
 %*******************************************************
 
 
-\appendix
+%\appendix
 %\renewcommand{\thechapter}{\alph{chapter}}
-\cleardoublepage
-\part{Appendix}
-\include{chapters/chapter0A}
+%\cleardoublepage
+%\part{Appendix}
+%\include{chapters/chapter0A}
 %********************************************************************
 % Other Stuff in the Back
 %*******************************************************

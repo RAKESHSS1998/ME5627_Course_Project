@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.24)  3 DEC 2024 20:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.24)  10 JAN 2025 20:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1340,6 +1340,23 @@ Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 289.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 289.
 Package hyperref Info: Option `hypertexnames' set `true' on input line 289.
 )
+(c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count480
+\float@exts=\toks53
+\float@box=\box71
+\@float@everytoks=\toks54
+\@floatcapt=\box72
+)
+Package scrhack Info: loading float hack on input line 41.
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/float.hak
+File: float.hak 2023/07/07 v3.41 KOMA-Script scrhack part (hacking package floa
+t)
+Package scrhack Info: redefining \newfloat on input line 163.
+Package scrhack Info: redefining \listof on input line 163.
+Package scrhack Info: undefining \float@addtolists on input line 163.
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1350,12 +1367,12 @@ LaTeX Font Info:    Trying to load font information for T1+pplj on input line 4
 (c:/texlive/2024/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 ) (./classicthesis.aux
-(./frontbackmatter/titlepage.aux) (./frontbackmatter/abstract.aux)
-(./frontbackmatter/acknowledgments.aux) (./frontbackmatter/contents.aux)
+(./frontbackmatter/titlepage.aux) (./frontbackmatter/titleback.aux)
+(./frontbackmatter/abstract.aux) (./frontbackmatter/acknowledgments.aux)
+(./frontbackmatter/contents.aux) (./frontbackmatter/symbols.aux)
 (./chapters/chapter01.aux) (./chapters/chapter02.aux) (./chapters/chapter03.aux
 ) (./chapters/chapter04.aux) (./chapters/chapter05.aux)
-(./chapters/chapter06.aux) (./chapters/chapter0A.aux)
-(./frontbackmatter/bibliography.aux))
+(./chapters/chapter06.aux) (./frontbackmatter/bibliography.aux))
 \openout1 = `classicthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
@@ -1450,24 +1467,25 @@ Package biblatex Info: Data encoding 'ascii' specified.
 \openout3 = `classicthesis-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'classicthesis.bbl' not found.
+Package biblatex Info: ... file 'classicthesis.bbl' found.
 
-No file classicthesis.bbl.
+(./classicthesis.bbl)
 Package biblatex Info: Reference section=0 on input line 44.
 Package biblatex Info: Reference segment=0 on input line 44.
+
 (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count480
+\scratchcounter=\count481
 \scratchdimen=\dimen281
-\scratchbox=\box71
-\nofMPsegments=\count481
-\nofMParguments=\count482
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count483
+\scratchbox=\box73
+\nofMPsegments=\count482
+\nofMParguments=\count483
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count484
 \MPscratchDim=\dimen282
-\MPnumerator=\count484
-\makeMPintoPDFobject=\count485
-\everyMPtoPDFconversion=\toks54
+\MPnumerator=\count485
+\makeMPintoPDFobject=\count486
+\everyMPtoPDFconversion=\toks56
 ) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1478,10 +1496,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count486
+\c@lstlisting=\count487
 Package tocbasic Info: setting babel extension for `lol' on input line 44.
 \scr@dte@lstlisting@maxnumwidth=\skip174
 
@@ -1551,7 +1570,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (c:/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count487
+\BKM@id=\count488
 ))
 \openout2 = `frontbackmatter/titlepage.aux'.
 
@@ -1613,7 +1632,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 File: gfx/logos/iitpkd_fulllogo_color.pdf Graphic file (type pdf)
 <use gfx/logos/iitpkd_fulllogo_color.pdf>
 Package pdftex.def Info: gfx/logos/iitpkd_fulllogo_color.pdf  used on input lin
-e 65.
+e 63.
 (pdftex.def)             Requested size: 128.0374pt x 125.65726pt.
  [1
 
@@ -1623,10 +1642,24 @@ e 65.
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
 texmf-dist/fonts/enc/dvips/base/8r.enc} <./gfx/logos/iitpkd_fulllogo_color.pdf>
 ])
+\openout2 = `frontbackmatter/titleback.aux'.
+
+
+(./frontbackmatter/titleback.tex
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
+11.
+
+(c:/texlive/2024/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
+)) [2
+
+
+
+]
 \openout2 = `frontbackmatter/abstract.aux'.
 
 
-(./frontbackmatter/abstract.tex) [2
+(./frontbackmatter/abstract.tex) [3
 
 
 
@@ -1635,7 +1668,7 @@ texmf-dist/fonts/enc/dvips/base/8r.enc} <./gfx/logos/iitpkd_fulllogo_color.pdf>
 \openout2 = `frontbackmatter/acknowledgments.aux'.
 
  (./frontbackmatter/acknowledgments.tex)
-[3
+[4
 
 
 
@@ -1650,7 +1683,13 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 11
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-)
+ [5
+
+
+
+
+
+])
 \tf@toc=\write6
 \openout6 = `classicthesis.toc'.
 
@@ -1659,16 +1698,12 @@ Package microtype Info: Character `029' is missing
 1: chapter
 1: chapter
 1: section
-[4
-
-
-
-
-
-]
+[6]
 Package tocbasic Info: character protrusion at lof deactivated on input line 29
 .
- (./classicthesis.lof)
+ (./classicthesis.lof [7
+
+])
 \tf@lof=\write7
 \openout7 = `classicthesis.lof'.
 
@@ -1678,9 +1713,17 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 39
 \tf@lot=\write8
 \openout8 = `classicthesis.lot'.
 
-) [5
+ [8]) [9]
+\openout2 = `frontbackmatter/symbols.aux'.
 
-] [6
+
+(./frontbackmatter/symbols.tex)
+No file classicthesis.nls.
+[10
+
+
+
+
 
 
 
@@ -1693,106 +1736,287 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 39
 ] [2]
 \openout2 = `chapters/chapter01.aux'.
 
-
-(./chapters/chapter01.tex
+ (./chapters/chapter01.tex
 Chapter 1.
-) [3
+[3
 
 
 
-]
+]) [4]
 \openout2 = `chapters/chapter02.aux'.
 
  (./chapters/chapter02.tex
 Chapter 2.
-[4
+[5
 
 
 
 
 
-]) [5] [6
-
-
-
-
-] [7] [8]
+]) [6]
 \openout2 = `chapters/chapter03.aux'.
 
- (./chapters/chapter03.tex
+ (./chapters/Chapter03.tex
 Chapter 3.
-) [9
+[7
+
+
 
 
 
 ]
+<gfx/windtunnel.jpg, id=267, 2191.18625pt x 1008.76875pt>
+File: gfx/windtunnel.jpg Graphic file (type jpg)
+<use gfx/windtunnel.jpg>
+Package pdftex.def Info: gfx/windtunnel.jpg  used on input line 24.
+(pdftex.def)             Requested size: 375.1471pt x 172.70442pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./gfx/Convergent_section_wind_tunnel.pdf): P
+DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<gfx/Convergent_section_wind_tunnel.pdf, id=268, 845.1575pt x 597.23125pt>
+File: gfx/Convergent_section_wind_tunnel.pdf Graphic file (type pdf)
+<use gfx/Convergent_section_wind_tunnel.pdf>
+Package pdftex.def Info: gfx/Convergent_section_wind_tunnel.pdf  used on input 
+line 58.
+(pdftex.def)             Requested size: 416.83295pt x 294.5596pt.
+[8 <./gfx/windtunnel.jpg>]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+ [9 <./gfx/Convergent_section_wind_tunnel.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./gfx/Wind_tunnel_test_section.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<gfx/Wind_tunnel_test_section.pdf, id=290, 845.1575pt x 597.23125pt>
+File: gfx/Wind_tunnel_test_section.pdf Graphic file (type pdf)
+<use gfx/Wind_tunnel_test_section.pdf>
+Package pdftex.def Info: gfx/Wind_tunnel_test_section.pdf  used on input line 8
+3.
+(pdftex.def)             Requested size: 416.83295pt x 294.5596pt.
+[10 <./gfx/Wind_tunnel_test_section.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./gfx/Divergent_section_for_wind_tunnel.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<gfx/Divergent_section_for_wind_tunnel.pdf, id=310, 845.1575pt x 597.23125pt>
+File: gfx/Divergent_section_for_wind_tunnel.pdf Graphic file (type pdf)
+<use gfx/Divergent_section_for_wind_tunnel.pdf>
+Package pdftex.def Info: gfx/Divergent_section_for_wind_tunnel.pdf  used on inp
+ut line 113.
+(pdftex.def)             Requested size: 416.83295pt x 294.5596pt.
+[11 <./gfx/Divergent_section_for_wind_tunnel.pdf>] [12] [13] [14] [15])
+[16] [17
+
+
+
+
+] [18]
 \openout2 = `chapters/chapter04.aux'.
 
  (./chapters/chapter04.tex
 Chapter 4.
-[10
+<gfx/TFB_Calibration.jpeg, id=405, 1552.29938pt x 1325.70282pt>
+File: gfx/TFB_Calibration.jpeg Graphic file (type jpg)
+<use gfx/TFB_Calibration.jpeg>
+Package pdftex.def Info: gfx/TFB_Calibration.jpeg  used on input line 9.
+(pdftex.def)             Requested size: 291.78178pt x 249.17552pt.
+<gfx/Voltage_vs_time_for_4Pa.pdf, id=406, 867.24pt x 578.16pt>
+File: gfx/Voltage_vs_time_for_4Pa.pdf Graphic file (type pdf)
+<use gfx/Voltage_vs_time_for_4Pa.pdf>
+Package pdftex.def Info: gfx/Voltage_vs_time_for_4Pa.pdf  used on input line 15
+.
+(pdftex.def)             Requested size: 416.83295pt x 277.89299pt.
+[19
 
 
 
+ <./gfx/TFB_Calibration.jpeg>] [20 <./gfx/Voltage_vs_time_for_4Pa.pdf>]
+<gfx/calibration_of_bulb_filament.pdf, id=432, 867.24pt x 578.16pt>
+File: gfx/calibration_of_bulb_filament.pdf Graphic file (type pdf)
+<use gfx/calibration_of_bulb_filament.pdf>
+Package pdftex.def Info: gfx/calibration_of_bulb_filament.pdf  used on input li
+ne 90.
+(pdftex.def)             Requested size: 416.83295pt x 277.89299pt.
 
-
-]) [11]
+[21] [22 <./gfx/calibration_of_bulb_filament.pdf>]
+<gfx/Time_constant_bulb.pdf, id=454, 867.24pt x 578.16pt>
+File: gfx/Time_constant_bulb.pdf Graphic file (type pdf)
+<use gfx/Time_constant_bulb.pdf>
+Package pdftex.def Info: gfx/Time_constant_bulb.pdf  used on input line 111.
+(pdftex.def)             Requested size: 416.83295pt x 277.89299pt.
+ [23 <./gfx/Time_constant_bulb.pdf>]
+<gfx/HWA_CC_Calibration.jpeg, id=470, 1695.33376pt x 1768.35657pt>
+File: gfx/HWA_CC_Calibration.jpeg Graphic file (type jpg)
+<use gfx/HWA_CC_Calibration.jpeg>
+Package pdftex.def Info: gfx/HWA_CC_Calibration.jpeg  used on input line 130.
+(pdftex.def)             Requested size: 208.41647pt x 217.37434pt.
+ [24 <./gfx/HWA_CC_Calibration.jpeg>]
+<gfx/calibration_of_hot_wire.pdf, id=481, 867.24pt x 578.16pt>
+File: gfx/calibration_of_hot_wire.pdf Graphic file (type pdf)
+<use gfx/calibration_of_hot_wire.pdf>
+Package pdftex.def Info: gfx/calibration_of_hot_wire.pdf  used on input line 18
+0.
+(pdftex.def)             Requested size: 416.83295pt x 277.89299pt.
+<gfx/Time_constant_hot_wire.pdf, id=482, 867.24pt x 578.16pt>
+File: gfx/Time_constant_hot_wire.pdf Graphic file (type pdf)
+<use gfx/Time_constant_hot_wire.pdf>
+Package pdftex.def Info: gfx/Time_constant_hot_wire.pdf  used on input line 186
+.
+(pdftex.def)             Requested size: 416.83295pt x 277.89299pt.
+ [25] [26 <./gfx/calibration_of_hot_wire.pdf> <./gfx/Time_constant_hot_wire.pdf
+>]) [27]
 \openout2 = `chapters/chapter05.aux'.
 
  (./chapters/chapter05.tex
 Chapter 5.
-[12
+[28
 
-
-
-
-
-]) [13]
-\openout2 = `chapters/chapter06.aux'.
-
- (./chapters/chapter06.tex
-Chapter 6.
-[14
-
-
-
-
-
-]) [15] [16
-
-
-
-
-] [17
-
-
-] [18]
-\openout2 = `chapters/chapter0A.aux'.
-
- (./chapters/chapter0A.tex
-Appendix A.
-) [19
-
-
-
-] [20
 
 
 
 
 ]
+<gfx/voltage_vs_time_for_1Pa_1s.pdf, id=511, 867.24pt x 361.35pt>
+File: gfx/voltage_vs_time_for_1Pa_1s.pdf Graphic file (type pdf)
+<use gfx/voltage_vs_time_for_1Pa_1s.pdf>
+Package pdftex.def Info: gfx/voltage_vs_time_for_1Pa_1s.pdf  used on input line
+ 12.
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+ [29 <./gfx/voltage_vs_time_for_1Pa_1s.pdf>]
+<gfx/velocity_vs_time_for_1Pa_1s.pdf, id=523, 867.24pt x 361.35pt>
+File: gfx/velocity_vs_time_for_1Pa_1s.pdf Graphic file (type pdf)
+<use gfx/velocity_vs_time_for_1Pa_1s.pdf>
+Package pdftex.def Info: gfx/velocity_vs_time_for_1Pa_1s.pdf  used on input lin
+e 23.
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+<gfx/FFT_vel_1Pa.pdf, id=526, 867.24pt x 361.35pt>
+File: gfx/FFT_vel_1Pa.pdf Graphic file (type pdf)
+<use gfx/FFT_vel_1Pa.pdf>
+Package pdftex.def Info: gfx/FFT_vel_1Pa.pdf  used on input line 42.
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+ [30 <./gfx/velocity_vs_time_for_1Pa_1s.pdf>]
+<gfx/FFT_all_freq_x_D_y_0.pdf, id=542, 1011.78pt x 1300.86pt>
+File: gfx/FFT_all_freq_x_D_y_0.pdf Graphic file (type pdf)
+<use gfx/FFT_all_freq_x_D_y_0.pdf>
+Package pdftex.def Info: gfx/FFT_all_freq_x_D_y_0.pdf  used on input line 53.
+(pdftex.def)             Requested size: 416.83295pt x 535.9365pt.
+<gfx/Re_vs_St_x_D_y_0.pdf, id=546, 867.24pt x 361.35pt>
+File: gfx/Re_vs_St_x_D_y_0.pdf Graphic file (type pdf)
+<use gfx/Re_vs_St_x_D_y_0.pdf>
+Package pdftex.def Info: gfx/Re_vs_St_x_D_y_0.pdf  used on input line 65.
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+ [31 <./gfx/FFT_vel_1Pa.pdf>] [32 <./gfx/FFT_all_freq_x_D_y_0.pdf>]
+<gfx/FFT_all_freq_x_D_y_0-5_D.pdf, id=568, 1011.78pt x 1300.86pt>
+File: gfx/FFT_all_freq_x_D_y_0-5_D.pdf Graphic file (type pdf)
+<use gfx/FFT_all_freq_x_D_y_0-5_D.pdf>
+Package pdftex.def Info: gfx/FFT_all_freq_x_D_y_0-5_D.pdf  used on input line 7
+6.
+(pdftex.def)             Requested size: 416.83295pt x 535.9365pt.
+<gfx/Re_vs_St_x_D_y_0-5_D.pdf, id=571, 867.24pt x 361.35pt>
+File: gfx/Re_vs_St_x_D_y_0-5_D.pdf Graphic file (type pdf)
+<use gfx/Re_vs_St_x_D_y_0-5_D.pdf>
+Package pdftex.def Info: gfx/Re_vs_St_x_D_y_0-5_D.pdf  used on input line 84.
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+ [33 <./gfx/Re_vs_St_x_D_y_0.pdf>] [34 <./gfx/FFT_all_freq_x_D_y_0-5_D.pdf>]
+<gfx/FFT_all_freq_x_2D_y_0.pdf, id=594, 1011.78pt x 1300.86pt>
+File: gfx/FFT_all_freq_x_2D_y_0.pdf Graphic file (type pdf)
+<use gfx/FFT_all_freq_x_2D_y_0.pdf>
+Package pdftex.def Info: gfx/FFT_all_freq_x_2D_y_0.pdf  used on input line 95.
+(pdftex.def)             Requested size: 416.83295pt x 535.9365pt.
+<gfx/Re_vs_St_x_2D_y_0.pdf, id=595, 867.24pt x 361.35pt>
+File: gfx/Re_vs_St_x_2D_y_0.pdf Graphic file (type pdf)
+<use gfx/Re_vs_St_x_2D_y_0.pdf>
+Package pdftex.def Info: gfx/Re_vs_St_x_2D_y_0.pdf  used on input line 102.
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+
+[35 <./gfx/Re_vs_St_x_D_y_0-5_D.pdf>] [36 <./gfx/FFT_all_freq_x_2D_y_0.pdf>]
+<gfx/FFT_all_freq_x_2D_y_0-5_D.pdf, id=617, 1011.78pt x 1300.86pt>
+File: gfx/FFT_all_freq_x_2D_y_0-5_D.pdf Graphic file (type pdf)
+<use gfx/FFT_all_freq_x_2D_y_0-5_D.pdf>
+Package pdftex.def Info: gfx/FFT_all_freq_x_2D_y_0-5_D.pdf  used on input line 
+114.
+(pdftex.def)             Requested size: 416.83295pt x 535.9365pt.
+<gfx/Re_vs_St_x_2D_y_0-5_D.pdf, id=620, 867.24pt x 361.35pt>
+File: gfx/Re_vs_St_x_2D_y_0-5_D.pdf Graphic file (type pdf)
+<use gfx/Re_vs_St_x_2D_y_0-5_D.pdf>
+Package pdftex.def Info: gfx/Re_vs_St_x_2D_y_0-5_D.pdf  used on input line 122.
+
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+
+[37 <./gfx/Re_vs_St_x_2D_y_0.pdf>] [38 <./gfx/FFT_all_freq_x_2D_y_0-5_D.pdf>]
+<gfx/FFT_all_freq_x_4D_y_0.pdf, id=642, 1011.78pt x 1300.86pt>
+File: gfx/FFT_all_freq_x_4D_y_0.pdf Graphic file (type pdf)
+<use gfx/FFT_all_freq_x_4D_y_0.pdf>
+Package pdftex.def Info: gfx/FFT_all_freq_x_4D_y_0.pdf  used on input line 135.
+
+(pdftex.def)             Requested size: 416.83295pt x 535.9365pt.
+<gfx/Re_vs_St_x_4D_y_0.pdf, id=643, 867.24pt x 361.35pt>
+File: gfx/Re_vs_St_x_4D_y_0.pdf Graphic file (type pdf)
+<use gfx/Re_vs_St_x_4D_y_0.pdf>
+Package pdftex.def Info: gfx/Re_vs_St_x_4D_y_0.pdf  used on input line 141.
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+<gfx/FFT_all_freq_x_4D_y_0-5_D.pdf, id=651, 1011.78pt x 1300.86pt>
+File: gfx/FFT_all_freq_x_4D_y_0-5_D.pdf Graphic file (type pdf)
+<use gfx/FFT_all_freq_x_4D_y_0-5_D.pdf>
+Package pdftex.def Info: gfx/FFT_all_freq_x_4D_y_0-5_D.pdf  used on input line 
+152.
+(pdftex.def)             Requested size: 416.83295pt x 535.9365pt.
+
+[39 <./gfx/Re_vs_St_x_2D_y_0-5_D.pdf>] [40 <./gfx/FFT_all_freq_x_4D_y_0.pdf>]
+<gfx/Re_vs_St_x_4D_y_0-5_D.pdf, id=670, 867.24pt x 361.35pt>
+File: gfx/Re_vs_St_x_4D_y_0-5_D.pdf Graphic file (type pdf)
+<use gfx/Re_vs_St_x_4D_y_0-5_D.pdf>
+Package pdftex.def Info: gfx/Re_vs_St_x_4D_y_0-5_D.pdf  used on input line 158.
+
+(pdftex.def)             Requested size: 416.83295pt x 173.68312pt.
+
+[41 <./gfx/Re_vs_St_x_4D_y_0.pdf>] [42 <./gfx/FFT_all_freq_x_4D_y_0-5_D.pdf>])
+[43 <./gfx/Re_vs_St_x_4D_y_0-5_D.pdf>] [44
+
+
+
+
+] [45] [46]
+\openout2 = `chapters/chapter06.aux'.
+
+ (./chapters/chapter06.tex
+Chapter 6.
+[47
+
+
+
+]) [48]
 \openout2 = `frontbackmatter/bibliography.aux'.
 
  (./frontbackmatter/bibliography.tex
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 16
+.
 
-LaTeX Warning: Empty bibliography on input line 16.
+(c:/texlive/2024/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 9.30756pt on input line 16.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [49
 
-) (./classicthesis.aux (./frontbackmatter/titlepage.aux)
-(./frontbackmatter/abstract.aux) (./frontbackmatter/acknowledgments.aux)
-(./frontbackmatter/contents.aux) (./chapters/chapter01.aux)
+
+
+
+
+
+
+]) [50]
+(./classicthesis.aux (./frontbackmatter/titlepage.aux)
+(./frontbackmatter/titleback.aux) (./frontbackmatter/abstract.aux)
+(./frontbackmatter/acknowledgments.aux) (./frontbackmatter/contents.aux)
+(./frontbackmatter/symbols.aux) (./chapters/chapter01.aux)
 (./chapters/chapter02.aux) (./chapters/chapter03.aux) (./chapters/chapter04.aux
 ) (./chapters/chapter05.aux) (./chapters/chapter06.aux)
-(./chapters/chapter0A.aux) (./frontbackmatter/bibliography.aux))
+(./frontbackmatter/bibliography.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1966,12 +2190,16 @@ ge
 with kernel methods
 rerunfilecheck.sty    2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+   float.hak    2023/07/07 v3.41 KOMA-Script scrhack part (hacking package floa
+t)
   t1pplj.fd    2004/09/06 font definitions for T1/pplj.
   mt-ppl.cfg    2005/11/16 v1.6 microtype config. file: Palatino (RS)
  english.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
 american.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
   german.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
  ngerman.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
+classicthesis.bbl
 supp-pdf.mkii
 epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
 epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
@@ -1991,17 +2219,46 @@ frontbackmatter/titlepage.tex
    ursfs.fd    1998/03/24 rsfs font definition file (jk)
  ot1zplm.fd    2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 gfx/logos/iitpkd_fulllogo_color.pdf
+frontbackmatter/titleback.tex
+ ts1pplj.fd    2004/09/06 font definitions for TS1/pplj.
 frontbackmatter/abstract.tex
 frontbackmatter/acknowledgments.tex
 frontbackmatter/contents.tex
+frontbackmatter/symbols.tex
 chapters/chapter01.tex
 chapters/chapter02.tex
 chapters/chapter03.tex
+gfx/windtunnel.jpg
+gfx/Convergent_section_wind_tunnel.pdf
+gfx/Wind_tunnel_test_section.pdf
+gfx/Divergent_section_for_wind_tunnel.pdf
 chapters/chapter04.tex
+gfx/TFB_Calibration.jpeg
+gfx/Voltage_vs_time_for_4Pa.pdf
+gfx/calibration_of_bulb_filament.pdf
+gfx/Time_constant_bulb.pdf
+gfx/HWA_CC_Calibration.jpeg
+gfx/calibration_of_hot_wire.pdf
+gfx/Time_constant_hot_wire.pdf
 chapters/chapter05.tex
+gfx/voltage_vs_time_for_1Pa_1s.pdf
+gfx/velocity_vs_time_for_1Pa_1s.pdf
+gfx/FFT_vel_1Pa.pdf
+gfx/FFT_all_freq_x_D_y_0.pdf
+gfx/Re_vs_St_x_D_y_0.pdf
+gfx/FFT_all_freq_x_D_y_0-5_D.pdf
+gfx/Re_vs_St_x_D_y_0-5_D.pdf
+gfx/FFT_all_freq_x_2D_y_0.pdf
+gfx/Re_vs_St_x_2D_y_0.pdf
+gfx/FFT_all_freq_x_2D_y_0-5_D.pdf
+gfx/Re_vs_St_x_2D_y_0-5_D.pdf
+gfx/FFT_all_freq_x_4D_y_0.pdf
+gfx/Re_vs_St_x_4D_y_0.pdf
+gfx/FFT_all_freq_x_4D_y_0-5_D.pdf
+gfx/Re_vs_St_x_4D_y_0-5_D.pdf
 chapters/chapter06.tex
-chapters/chapter0A.tex
 frontbackmatter/bibliography.tex
+   t1fvm.fd    2004/09/07 scalable font definitions for T1/fvm.
  ***********
 
 Package rerunfilecheck Info: File `classicthesis.out' has not changed.
@@ -2011,21 +2268,30 @@ Package logreq Info: Writing requests to 'classicthesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35400 strings out of 473992
- 661638 string characters out of 5745048
- 1935907 words of memory out of 5000000
- 56947 multiletter control sequences out of 15000+600000
- 676388 words of font info for 299 fonts, out of 8000000 for 9000
+ 37084 strings out of 473992
+ 695136 string characters out of 5745048
+ 1947907 words of memory out of 5000000
+ 57993 multiletter control sequences out of 15000+600000
+ 750227 words of font info for 669 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,20n,107p,10908b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb><c:/
-texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/texlive/2024/tex
-mf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2024/texmf-dist/fonts/t
-ype1/urw/palatino/uplr8a.pfb>
-Output written on classicthesis.pdf (26 pages, 88417 bytes).
+ 108i,23n,125p,10908b,2484s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/euler/euex10.pfb><c:/texlive/2024/texmf-dist/font
+s/type1/public/amsfonts/euler/eufm10.pfb><c:/texlive/2024/texmf-dist/fonts/type
+1/public/amsfonts/euler/eufm7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publi
+c/amsfonts/euler/eurb10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsf
+onts/euler/eurm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/e
+uler/eurm7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><
+c:/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb><c:/texlive/2024/
+texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2024/texmf-dist/font
+s/type1/urw/palatino/uplr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/pal
+atino/uplri8a.pfb>
+Output written on classicthesis.pdf (60 pages, 2450382 bytes).
 PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 124550 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 997 PDF objects out of 1000 (max. 8388607)
+ 857 compressed objects within 9 object streams
+ 198 named destinations out of 1000 (max. 500000)
+ 199680 words of extra memory for PDF output out of 221844 (max. 10000000)
 

@@ -1,13 +1,48 @@
 \babel@toc {american}{}\relax 
 \vspace {-\cftbeforepartskip }
-\contentsline {part}{\numberline {i}{Introduction and Literature review}}{1}{part.1}%
+\contentsline {part}{\numberline {I}{Introduction, Literature review and Design}}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}{Introduction}}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}{Objectives:}}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}{Organization of the report}}{4}{section.1.2}%
 \contentsline {chapter}{\numberline {2}{Literature review}}{5}{chapter.2}%
-\contentsline {part}{\numberline {ii}{Theory, Procedure and results}}{7}{part.2}%
-\contentsline {chapter}{\numberline {3}{Theory}}{9}{chapter.3}%
-\contentsline {chapter}{\numberline {4}{Experimental procedure}}{11}{chapter.4}%
-\contentsline {chapter}{\numberline {5}{Results and discussions}}{13}{chapter.5}%
-\contentsline {chapter}{\numberline {6}{Conclusion}}{15}{chapter.6}%
-\contentsline {part}{\numberline {iii}{Appendix}}{17}{part.3}%
-\contentsline {chapter}{\numberline {A}{Appendix 1}}{19}{appendix.A}%
+\contentsline {chapter}{\numberline {3}{Design and fabrication}}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}{Elements of the Wind Tunnel Setup:}}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}{Main parts of the wind tunnel:}}{8}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}{Settling chamber}}{8}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}{Length calculations:}}{8}{subsubsection.3.2.1.1}%
+\contentsline {subsection}{\numberline {3.2.2}{Contraction Section}}{9}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}{Design Parameters}}{9}{subsubsection.3.2.2.1}%
+\contentsline {subsection}{\numberline {3.2.3}{Test Section}}{10}{subsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}{Design parameters:}}{10}{subsubsection.3.2.3.1}%
+\contentsline {subsection}{\numberline {3.2.4}{Diffuser Section}}{11}{subsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.4.1}{Design parameters}}{12}{subsubsection.3.2.4.1}%
+\contentsline {section}{\numberline {3.3}{Hot Wire Filament}}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}{Fan Power calculation}}{13}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}{Area Calculations}}{13}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}{Flow Rate Calculation}}{13}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}{Pressure Drop Calculations}}{13}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}{Design Summary of the wind tunnel}}{16}{section.3.5}%
+\contentsline {part}{\numberline {II}{Procedure and results}}{17}{part.2}%
+\contentsline {chapter}{\numberline {4}{Experimental procedure}}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}{Calibration of tungsten filament of the bulb}}{19}{section.4.1}%
+\contentsline {section}{\numberline {4.2}{Time constant of the filament of the bulb}}{23}{section.4.2}%
+\contentsline {section}{\numberline {4.3}{Calibration of Hot wire anemometer}}{24}{section.4.3}%
+\contentsline {section}{\numberline {4.4}{Time constant of the hot wire anemometer}}{27}{section.4.4}%
+\contentsline {section}{\numberline {4.5}{Chapter summary}}{27}{section.4.5}%
+\contentsline {chapter}{\numberline {5}{Results and discussions}}{29}{chapter.5}%
+\contentsline {section}{\numberline {5.1}{Vortex analysis at distance $x=D$~from the cylinder}}{29}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}{Vortex analysis at the center of the cylinder}}{29}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}{Vortex analysis at a height of $0.5~D$~from the center of the cylinder}}{33}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}{Vortex analysis at distance $x=2D$~from the cylinder}}{35}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}{Vortex analysis at the center of the cylinder}}{35}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}{Vortex analysis at a height of $0.5~D$~from the center of the cylinder}}{37}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}{Vortex analysis at distance $x=4D$~from the cylinder}}{39}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}{Vortex analysis at the center of the cylinder}}{39}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}{Vortex analysis at a height of $0.5~D$~from the center of the cylinder}}{41}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}{Chapter summary}}{43}{section.5.4}%
+\contentsline {part}{\numberline {III}{Conclusion and future scope}}{45}{part.3}%
+\contentsline {chapter}{\numberline {6}{Conclusions}}{47}{chapter.6}%
+\contentsline {section}{\numberline {6.1}{Future scope}}{48}{section.6.1}%
+\vspace {\beforebibskip }
+\contentsline {chapter}{\numberline {}{Bibliography}}{49}{section*.32}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
